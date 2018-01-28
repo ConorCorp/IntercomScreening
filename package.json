@@ -1,0 +1,15 @@
+{
+  "name": "intercomproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "mocha",
+    "exec": "node run.js providedCustList.txt" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
