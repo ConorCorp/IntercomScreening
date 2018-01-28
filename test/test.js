@@ -2,6 +2,10 @@
 // Manual Testing conducted on:
 //      * readInList()
 //      * parseJSONFile() - Malformed JSON file
+//
+// Side note: This is my first time Unit Testing in JS, my backround
+// in unit testing is in Java but though it'd be cool to try out in JS. 
+// Sorry if it looks wonky.
 
 
 

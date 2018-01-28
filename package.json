@@ -5,7 +5,7 @@
   "main": "run.js",
   "scripts": {
     "test": "mocha",
-    "exec": "node run.js providedCustList.txt" 
+    "exec": "node run.js providedCustList.txt"
   },
   "author": "",
   "license": "ISC",
